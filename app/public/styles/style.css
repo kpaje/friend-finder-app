@@ -1,0 +1,47 @@
+body {
+    background-color: #878787;
+}
+
+a {
+    color: #FFB86C; 
+}
+
+h1 {
+    color:#50FA7B;
+}
+
+h2 {
+    color: #BD93F9;
+}
+
+h3 {
+    color:#50FA7B;
+}
+
+.jumbotron {
+    background-color: #3C4556;
+}
+
+.btn {
+    background-color: #d3d4d5;
+    color: #3c3c3c;
+    border: #d3d4d5;
+}
+.btn:hover {
+    background-color: #3c3c3c;
+    color: #d3d4d5;
+    border: #3c3c3c;
+}
+.btn:visited {
+    background-color: #d3d4d5;
+    color: #3c3c3c;
+    border: #d3d4d5;
+}
+.btn:focus {
+    background-color: #d3d4d5;
+    color: #3c3c3c;
+    border: #d3d4d5;
+}
+.fa-brain {
+    color: pink;
+}

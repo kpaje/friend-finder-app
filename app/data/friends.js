@@ -1,6 +1,5 @@
 var friends = [{
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "McLovin",
     scores: [
     "5",
     "1",
@@ -15,8 +14,7 @@ var friends = [{
     ]
     },
     {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Pepe Le Pew",
     scores: [
     "4",
     "2",
@@ -31,8 +29,7 @@ var friends = [{
     ]
     },
     {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Gomez Addams",
     scores: [
     "5",
     "2",
